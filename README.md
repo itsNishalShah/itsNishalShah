@@ -1,6 +1,9 @@
 # Namaste ✨
 
-<>
+<div align="center">
+<img hight="300" width="700" alt="gif" align="center" src="https://github.com/itsNishalShah/itsNishalShah/blob/main/assets/top.mp4">
+</div>
+
 <!--
 **itsNishalShah/itsNishalShah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
