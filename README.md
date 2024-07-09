@@ -23,3 +23,8 @@ Im a **Full Stack Developer** who loves to bring ideas to life on a screen. I am
 ![TailwindCss](https://img.shields.io/badge/-TailwindCss-000000?style=flat&logo=tailwindcss&logoColor=#3178C6)
 
 </div>
+
+<div align="center">
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+</div>
