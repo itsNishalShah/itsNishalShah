@@ -1,4 +1,4 @@
-[![header]([./banner.jpeg])](https://aar.one)
+[![header]([./assets/banner.jpeg])](https://aar.one)
 # Namaste ✨
 <br>
 <div align="center">
