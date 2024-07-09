@@ -16,8 +16,8 @@ Im a **Full Stack Developer** who loves to bring ideas to life on a screen. I am
 ![ExpressJs](https://img.shields.io/badge/-ExpressJs-000000?style=flat&logo=express&logoColor=#3178C6)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=#3178C6)
 ![Redis](https://img.shields.io/badge/-Redis-000000?style=flat&logo=redis&logoColor=#3178C6)
-![HTML](https://img.shields.io/badge/-HTML-000000?style=flat&logo=html&logoColor=#3178C6)
-![CSS](https://img.shields.io/badge/-Css-000000?style=flat&logo=css&logoColor=#3178C6)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=#E34F26)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=#1572B6)
 ![TailwindCss](https://img.shields.io/badge/-TailwindCss-000000?style=flat&logo=tailwindcss&logoColor=#3178C6)
 
 </div>
