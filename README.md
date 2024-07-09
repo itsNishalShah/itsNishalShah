@@ -1,9 +1,9 @@
-# Namaste ✨
 
 <div align="center">
 <img hight="300" width="700" alt="gif" align="center" src="https://github.com/itsNishalShah/itsNishalShah/blob/main/assets/top.gif">
 </div>
 <br>
+# Namaste ✨
 <br>
 <div align="center">
 
