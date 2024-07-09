@@ -1,12 +1,16 @@
-[![header](./banner.jpeg)](https://aar.one)
-# Namaste ✨
-<br>
-<div align="center">
+[![header](./banner.jpeg)](https://the-jjimvoo3n-nishals-projects.vercel.app/)
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+# Namaste! I'm Nishal ✨
+
+<div class="github-introduction">
+
+Im a **Full Stack Developer** who loves to bring ideas to life on a screen. I am passionate about Machine Learning and Artificial Intelligence. I am excited about designing and developing websites and web applications that are **fast**, **responsive**, and **accessible** to everyone.
 </div>
-<br>
 
-# About Me:
 
-### I'm an Aritifical Intellegence & Machine Learning Enthusiast from India.
+<div class="badges-intro">
+
+![JavaScript](https://img.shields.io/badge/Javascript)
+![TypeScript](https://img.shields.io/badge/Typescript)
+
+</div>
