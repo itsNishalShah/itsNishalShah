@@ -2,19 +2,14 @@
 
 <div align="center">
 <img hight="300" width="700" alt="gif" align="center" src="https://github.com/itsNishalShah/itsNishalShah/blob/main/assets/top.gif">
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 </div>
 
-<!--
-**itsNishalShah/itsNishalShah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
+<br>
+<br>
 
-Here are some ideas to get you started:
+# About Me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I'm an Aritifical Intellegence & Machine Learning Enthusiast from India.
