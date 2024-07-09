@@ -14,6 +14,6 @@ Im a **Full Stack Developer** who loves to bring ideas to life on a screen. I am
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=#3178C6)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=#3178C6)
 ![Redis](https://img.shields.io/badge/-Redis-000000?style=flat&logo=redis&logoColor=#3178C6)
-![Tailwind](https://img.shields.io/badge/-Tailwind-000000?style=flat&logo=tailwind&logoColor=#3178C6)
+![TailwindCss](https://img.shields.io/badge/-TailwindCss-000000?style=flat&logo=tailwindcss&logoColor=#3178C6)
 
 </div>
