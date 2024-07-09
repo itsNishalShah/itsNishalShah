@@ -2,7 +2,8 @@
 
 <div align="center">
 <img hight="300" width="700" alt="gif" align="center" src="https://github.com/itsNishalShah/itsNishalShah/blob/main/assets/top.gif">
-
+<br>
+<br>
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 </div>
 
