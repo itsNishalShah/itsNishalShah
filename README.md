@@ -24,6 +24,8 @@ Im a **Full Stack Developer** who loves to bring ideas to life on a screen. I am
 
 </div>
 
+<br>
+
 <div align="center">
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
